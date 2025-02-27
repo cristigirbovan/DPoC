@@ -6,8 +6,8 @@ Ever wondered what would happen if **blockchain, AI, and zero-knowledge proofs**
 It's a **decentralized AI validation framework** that lets lightweight nodes (like your smartphone 📱) process real-world AI tasks (like detecting deepfakes 🕵️‍♂️), proving correctness with **ZK-SNARKs** (a fancy cryptographic trick 🔐), and securing results using **BLS signatures & Merkle trees** 🌳.
 
 ## 📜 What’s Inside?
-- **📄 `dpoc_design.pdf`** - The ultimate guide (aka **the holy book 📖**) explaining how this works.   
-- **🚧 POC/POT COMING SOON!** - A fully functional Proof-of-Concept & Proof-of-Technology to showcase the magic.  
+- **📄 `DPoC4DF.pdf`** - explaining how this works.   
+- **🚧 POC/POT COMING SOON!** - A fully functional Proof-of-Concept & Proof-of-Technology to showcase the idea.  
 - **🔗 Blockchain Integration** - Because **trust** shouldn't require a middleman.  
 
 ## 🎯 The Big Idea
