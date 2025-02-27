@@ -10,7 +10,7 @@ It's a **decentralized AI validation framework** that lets lightweight nodes (li
 - **🚧 POC/POT COMING SOON!** - A fully functional Proof-of-Concept & Proof-of-Technology to showcase the idea.  
 - **🔗 Blockchain Integration** - Because **trust** shouldn't require a middleman.  
 
-## 🎯 The Big Idea
+## 🎯 The Idea
 - 🤖 AI does its thing (deepfake detection, for example).  
 - 🕵️‍♂️ Zero-Knowledge Proofs verify the AI didn’t cheat.  
 - 🏛️ Blockchain stores the final proofs (not the heavy data).  
