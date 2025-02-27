@@ -1,8 +1,6 @@
 # 🛠️DPoC - Dynamic Proof of Collaboration (DPoC) Framework for Decentralized DeepFake Detection
 
 ## 🤖 What is this?
-Ever wondered what would happen if **blockchain, AI, and zero-knowledge proofs** had a wild night out and created something groundbreaking? Well, **DPoC** (Dynamic Proof of Collaboration) is exactly that! 🎉
-
 It's a **decentralized AI validation framework** that lets lightweight nodes (like your smartphone 📱) process real-world AI tasks (like detecting deepfakes 🕵️‍♂️), proving correctness with **ZK-SNARKs** (a fancy cryptographic trick 🔐), and securing results using **BLS signatures & Merkle trees** 🌳.
 
 ## 📜 What’s Inside?
