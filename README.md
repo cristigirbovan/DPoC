@@ -22,4 +22,4 @@ It's a **decentralized AI validation framework** that lets lightweight nodes (li
 ---
 
 👀 **Curious?** Start by reading [`DPoC4DF.pdf`](./DPoC4DF.pdf) 📖  
-🚀 **Want to contribute?** Clone, fork, and let’s build the future! 🛠️💡  
+🚀 **Want to contribute?** Clone, fork, and let’s build! 🛠️💡  
